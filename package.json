@@ -1,7 +1,7 @@
 {
-  "name": "giveaway_follower_bot",
+  "name": "Twitter_Bot",
   "version": "1.0.0",
-  "description": "Follows and retweets giveaways on Twitter.",
+  "description": "Follows and retweets specific tweets on Twitter.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,9 +10,8 @@
   "keywords": [
     "bot",
     "twitter",
-    "giveaway",
     "follow",
-    "competition"
+    "retweet"
   ],
   "author": "Kenny",
   "license": "ISC",
