@@ -1,0 +1,22 @@
+{
+  "name": "giveaway_follower_bot",
+  "version": "1.0.0",
+  "description": "Follows and retweets giveaways on Twitter.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "giveaway",
+    "follow",
+    "competition"
+  ],
+  "author": "Kenny",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
